@@ -1,1 +1,1 @@
-worker: node modmailbot-master.js
+worker: main.py
